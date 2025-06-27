@@ -3,7 +3,7 @@ A personal archive of reusable Salesforce code: LWC components, Apex classes, ut
 
 # 🧠 Salesforce Developer Code Archive
 
-> 🔁 A personal backup vault of reusable Salesforce components, scripts, and utilities — built and maintained by CKuma
+> 🔁 A personal backup vault of reusable Salesforce components, scripts, and utilities — built and maintained by Chethan
 
 ---
 
