@@ -1,0 +1,18 @@
+# IDEs and temp
+.vscode/
+.idea/
+*.log
+*.tmp
+*.bak
+~$*
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Node modules if used
+node_modules/
+
+# SFDX & cache
+.sfdx/
